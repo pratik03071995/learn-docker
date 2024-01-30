@@ -1,3 +1,0 @@
-[console_scripts]
-my-caculator = src.calculate_app:main
-

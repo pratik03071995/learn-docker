@@ -1,0 +1,26 @@
+MANIFEST
+build/
+dist/
+conf/
+venv/
+*.eggs/
+*.egg-info/
+*.pyc
+*.pyo
+*.so
+__pycache__/
+
+# Ignore virtualenv environments.
+venv*/
+
+# Ignore settings for various IDEs.
+.idea/
+.vscode
+.history
+.project/
+.pydevproject/
+nbproject/
+
+# Ignore OS metadata files.
+*~
+.DS_Store
